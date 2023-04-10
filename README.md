@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my GitHub
+- 🌱 I’m currently learning Dart/Flutter for Mobile and Web.
+- 👯 I’m looking to collaborate as a Junior Software Engineer
+- 🤔 I’m looking for help with getting a new job as Junior Software Engineer
+- 📫 How to reach me: +55 11 946745479
 <!--
 **SamuelVegasP/SamuelVegasP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
